@@ -1,0 +1,13 @@
+body {
+	background-color: coral;
+	font-size:20px;
+	font-family: 'Roboto Mono', monospace;
+	background-image: url("logoMakr_2jcvXY.png");
+}
+h1 {
+	font-family: 'Oswald', sans-serif;
+}
+
+.logo {
+	margin-left:33%;
+}
